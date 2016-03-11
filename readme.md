@@ -1,9 +1,4 @@
-Components POC : Brand
-======================
+myComponents
+============
 
-This is a POC for the Brand components for the BR_DM_RELEASE. The base reference for POC : <http://www.beoplay.com>
-
-
-Components for POC
-==================
- 
+This is a library of the components developed as a POC for a particular design under consideration. The components may as well be developed while following referencing materials or learning new technologies.
