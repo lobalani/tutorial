@@ -12,5 +12,8 @@
     "isomorphic"
   ],
   "author": "Lokesh Balani @lobalani",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
 }
